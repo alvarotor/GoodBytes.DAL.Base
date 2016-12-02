@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodBytes.DAL.Base", "GoodBytes.DAL.Base.csproj", "{43DF114C-0845-4AC5-9195-122B21668E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Community|Any CPU = Community|Any CPU
+		CommunityTest|Any CPU = CommunityTest|Any CPU
+		Criticas|Any CPU = Criticas|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		FootballChildren|Any CPU = FootballChildren|Any CPU
+		Interesart|Any CPU = Interesart|Any CPU
+		ProgramandoEn|Any CPU = ProgramandoEn|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Technologia|Any CPU = Technologia|Any CPU
+		TravelLibre|Any CPU = TravelLibre|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Community|Any CPU.ActiveCfg = Community|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Community|Any CPU.Build.0 = Community|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.CommunityTest|Any CPU.ActiveCfg = CommunityTest|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.CommunityTest|Any CPU.Build.0 = CommunityTest|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Criticas|Any CPU.ActiveCfg = Criticas|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Criticas|Any CPU.Build.0 = Criticas|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.FootballChildren|Any CPU.ActiveCfg = FootballChildren|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.FootballChildren|Any CPU.Build.0 = FootballChildren|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Interesart|Any CPU.ActiveCfg = Interesart|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Interesart|Any CPU.Build.0 = Interesart|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.ProgramandoEn|Any CPU.ActiveCfg = ProgramandoEn|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.ProgramandoEn|Any CPU.Build.0 = ProgramandoEn|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Technologia|Any CPU.ActiveCfg = Technologia|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.Technologia|Any CPU.Build.0 = Technologia|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.TravelLibre|Any CPU.ActiveCfg = TravelLibre|Any CPU
+		{43DF114C-0845-4AC5-9195-122B21668E75}.TravelLibre|Any CPU.Build.0 = TravelLibre|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
